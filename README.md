@@ -1,6 +1,6 @@
 # android-html-ripper
 
-ETA: 10/2/2022 (D/M/Y)
+ETA: A while
 
 Run Apk Files as offline .html files for Chromebooks!
 
